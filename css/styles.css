@@ -27,6 +27,13 @@ body {
   margin-left: calc(100vw / 2 - 100px);
 }
 
+.tipo-c {
+  border: 1px solid #C8CFDB;
+  padding: 10px;
+  text-align: center;
+}
+
 .tipo-c .caja {
   display: inline-block;
+  text-align: left;
 }
