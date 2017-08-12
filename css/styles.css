@@ -1,0 +1,32 @@
+/*
+FF151F          Rojo
+484848          Gris oscuro
+C8CFDB          azul claro
+E7EAEF          gris claro
+FFFFFF          blanco
+*/
+
+body {
+  background-color: #484848;
+  color: #FFFFFF;
+  font-family: Arial;
+  margin: 0;
+}
+
+.caja {
+  width: 200px;
+  border: 1px solid #C8CFDB;
+  margin-bottom: 50px;
+}
+
+.tipo-a {
+  margin: 0 auto;
+}
+
+.tipo-b {
+  margin-left: calc(100vw / 2 - 100px);
+}
+
+.tipo-c .caja {
+  display: inline-block;
+}
