@@ -11,6 +11,7 @@ body {
   color: #FFFFFF;
   font-family: Arial;
   margin: 0;
+  padding-bottom: 200px;
 }
 
 .caja {
@@ -36,4 +37,17 @@ body {
 .tipo-c .caja {
   display: inline-block;
   text-align: left;
+}
+
+.relative {
+  position: relative;
+  border: 1px solid #C8CFDB
+}
+
+.tipo-d {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: auto;
 }
