@@ -93,3 +93,8 @@ body {
   align-items: center;
   /*justify-content: center;*/
 }
+
+.tipo-j {
+  line-height: 500px;
+  /*text-align: center;*/
+}
