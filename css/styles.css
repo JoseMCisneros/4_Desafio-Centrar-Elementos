@@ -76,3 +76,10 @@ body {
   width: 100px;
   vertical-align: middle;
 }
+
+.tipo-h {
+  height: 500px;
+  background: #FF151F;
+  padding-top: 96px;
+  box-sizing: border-box;
+}
