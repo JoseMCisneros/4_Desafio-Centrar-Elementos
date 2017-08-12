@@ -58,3 +58,9 @@ body {
   left: 50%;
   margin-left: -100px;
 }
+
+.tipo-f {
+  display: flex;
+  justify-content: center;
+  /*justify-content: space-between;*/
+}
