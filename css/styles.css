@@ -41,7 +41,8 @@ body {
 
 .relative {
   position: relative;
-  border: 1px solid #C8CFDB
+  border: 1px solid #C8CFDB;
+  height: 400px;
 }
 
 .tipo-d {
@@ -50,4 +51,10 @@ body {
   top: 0;
   right: 0;
   margin: auto;
+}
+
+.tipo-e {
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
 }
