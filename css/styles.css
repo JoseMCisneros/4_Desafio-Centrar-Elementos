@@ -98,3 +98,8 @@ body {
   line-height: 500px;
   /*text-align: center;*/
 }
+
+.tipo-k *{
+  display: inline;
+  vertical-align: middle;
+}
